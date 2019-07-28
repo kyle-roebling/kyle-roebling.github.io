@@ -1,8 +1,10 @@
-img{
+.profile{
    margin-top: 20px;
 }
 
-
+.margin-thumbnail{
+	margin-bottom: 30px;
+}
 
 .center-block {
     display: block;
@@ -35,6 +37,14 @@ border-color: #863ee3;
 #contact{
 	margin-top: 40px;
 	margin-bottom:40px;
+	color: white;
+	background-color: black;
+
+}
+
+.margin-20{
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 #biography{
